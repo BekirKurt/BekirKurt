@@ -3,6 +3,6 @@
 
 - 🌱 I’m currently learning **programming languages**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/bekir-kurt-377980193/</h3>
 <p align="left">
 </p>
