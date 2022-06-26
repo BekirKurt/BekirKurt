@@ -4,5 +4,8 @@
 - 🌱 I’m currently learning **programming languages**
 
 <h3 align="left">Connect with me:https://www.linkedin.com/in/bekir-kurt-377980193/</h3>
+
+
+![](https://komarev.com/ghpvc/?username=BekirKurt)
 <p align="left">
 </p>
