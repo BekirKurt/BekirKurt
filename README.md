@@ -8,6 +8,9 @@
 
 ![](https://komarev.com/ghpvc/?username=BekirKurt)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekirKurt&layout=compact)](https://github.com/BekirKurt/github-readme-stats)
+
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api?username=BekirKurt&show_icons=true&theme=radical)
 <p align="left">
 </p>
