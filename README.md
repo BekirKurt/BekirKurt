@@ -6,11 +6,12 @@
 <h3 align="left">Connect with me:https://www.linkedin.com/in/bekir-kurt-377980193/</h3>
 
 
-![](https://komarev.com/ghpvc/?username=BekirKurt)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekirKurt&layout=compact)](https://github.com/BekirKurt/github-readme-stats)
 
+<div style="text-align='center'">![](https://komarev.com/ghpvc/?username=BekirKurt)</div>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api?username=BekirKurt&show_icons=true&theme=radical)
+
 <p align="left">
 </p>
