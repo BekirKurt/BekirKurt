@@ -7,5 +7,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=BekirKurt)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api?username=BekirKurt&show_icons=true&theme=radical)
 <p align="left">
 </p>
