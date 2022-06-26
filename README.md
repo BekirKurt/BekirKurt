@@ -10,7 +10,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekirKurt&layout=compact)](https://github.com/BekirKurt/github-readme-stats)
 
-<div style="text-align='center'">![](https://komarev.com/ghpvc/?username=BekirKurt)</div>
+<div style="text-align='center'">
+  <p>
+  ![](https://komarev.com/ghpvc/?username=BekirKurt)
+
+  
+  </p>
+  
+
+</div>
 
 
 <p align="left">
