@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekirKurt&layout=compact)](https://github.com/BekirKurt/github-readme-stats)
 
-  ![](https://komarev.com/ghpvc/?username=BekirKurt)
+
 
 
 
